@@ -2,3 +2,5 @@ node_modules/
 dist/
 .env
 logs/
+
+# default remove .git
